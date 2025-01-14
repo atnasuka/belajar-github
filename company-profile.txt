@@ -1,2 +1,6 @@
 mebuat company profile 
-feature blog
+- home
+- service
+- team
+- feature blog
+- contact
