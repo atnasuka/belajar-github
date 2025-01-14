@@ -7,4 +7,4 @@ mebuat company profile
 
 tools
 backend laravel
-frontend vuejs
+frontend reactjs
